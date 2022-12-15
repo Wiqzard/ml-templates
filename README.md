@@ -19,3 +19,11 @@ A template for the structure you implement in every project. Well suited for doi
     * files for helper functions etc.
 * run.py
     * file to execute with defined arguments
+
+#$ sources:
+
+
+
+
+
+
