@@ -1,4 +1,5 @@
 # ml-templates
+A template for the structure you implement in every project. Well suited for doing quick experiments.
 
 ## basic structre
 
