@@ -20,7 +20,7 @@ A template for the structure you implement in every project. Well suited for doi
 * run.py
     * file to execute with defined arguments
 
-#$ sources:
+## sources:
 
 
 
